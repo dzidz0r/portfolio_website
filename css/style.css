@@ -363,7 +363,7 @@ footer [class*="fa-"]:hover {
 
 
 
-@media (min-width: 800px) {
+@media (min-width: 300px) {
   .about-nav {
     padding: 4rem 0;
     background-color: var(--dkblue);
@@ -372,7 +372,7 @@ footer [class*="fa-"]:hover {
   .info {
     max-width: 1200px;
     margin: 0 auto;
-    padding-bottom: 4rem;
+    padding: 4rem;
   }
 
   .info img {
